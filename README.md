@@ -1,30 +1,36 @@
 # 🧠 AI Resume Screener
 
 ## 🚀 Overview
-AI Resume Screener is a Python-based project that automatically evaluates candidate resumes by matching their skills with job requirements.
+AI Resume Screener is a Python-based project that automatically analyzes resumes and matches them with job descriptions using skill-based matching.
 
-It helps in shortlisting candidates based on similarity scoring and skill extraction.
+It helps recruiters shortlist candidates quickly by calculating a matching score.
 
 ---
 
 ## ✨ Features
-- Resume skill extraction
-- Job requirement matching
-- Candidate ranking system
-- Automated shortlisting
+- Extracts candidate skills
+- Matches skills with job requirements
+- Generates match score (0–100)
+- Helps in candidate shortlisting
 
 ---
 
 ## 🛠️ Tech Stack
 - Python
-- NLP (basic text processing)
+- Basic NLP (text processing)
 - File handling
 
 ---
 
-## 📂 Project Structure
-- resume_screener.py → Main logic file
-- README.md → Project documentation
+## 📌 Example Output
+
+Input:
+Candidate Skills: Python, Machine Learning, SQL  
+Job Skills: Python, Machine Learning, NLP  
+
+Output:
+Matching Score: 85%  
+Status: Shortlisted
 
 ---
 
