@@ -35,5 +35,7 @@ Status: Shortlisted
 ---
 
 ## ▶️ How to Run
+<img width="1353" height="626" alt="Screenshot 2026-06-16 125646" src="https://github.com/user-attachments/assets/90288536-75d6-4359-8a1f-c4ee3933103c" />
+
 ```bash
 python resume_screener.py
